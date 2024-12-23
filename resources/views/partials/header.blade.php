@@ -1,4 +1,5 @@
 <!-- When there is no desire, all things are at peace. - Laozi -->
+
 <!-- Topbar Start -->
 <div class="container-fluid bg-dark text-white d-none d-lg-flex">
     <div class="container py-3">
@@ -7,14 +8,21 @@
                 <img src="{{ asset('img/logo.webp') }}" alt="TechQubix">
             </a>
             <div class="ms-auto d-flex align-items-center">
-                <small class="ms-4"><i class="fa fa-map-marker-alt me-3"></i>181 Gilla Dr, Ballwin, MO 63011, USA</small>
+                <small class="ms-4"><i class="fa fa-map-marker-alt me-3"></i>181 Gilla Dr, Ballwin, MO 63011,
+                    USA</small>
                 <small class="ms-4"><i class="fa fa-envelope me-3"></i>hello@techqubix.com</small>
                 <small class="ms-4"><i class="fa fa-phone-alt me-3"></i>+1 314 390 5211</small>
                 <div class="ms-3 d-flex">
-                    <a class="btn btn-sm-square btn-light text-dark rounded-circle ms-2" href="https://www.facebook.com/people/TechQubix/61554638609405/"><i class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-sm-square btn-light text-dark rounded-circle ms-2" href="https://twitter.com/techqubix"><i class="fab fa-twitter"></i></a>
-                    <a class="btn btn-sm-square btn-light text-dark rounded-circle ms-2" href="https://www.instagram.com/techqubixworks?igsh=aDNzNW80bWhwaXJx"><i class="fab fa-instagram"></i></a>
-                    <a class="btn btn-sm-square btn-light text-dark rounded-circle ms-2" href="https://www.linkedin.com/company/techqubix/"><i class="fab fa-linkedin-in"></i></a>
+                    <a class="btn btn-sm-square btn-light text-dark rounded-circle ms-2"
+                        href="https://www.facebook.com/people/TechQubix/61554638609405/"><i
+                            class="fab fa-facebook-f"></i></a>
+                    <a class="btn btn-sm-square btn-light text-dark rounded-circle ms-2"
+                        href="https://twitter.com/techqubix"><i class="fab fa-twitter"></i></a>
+                    <a class="btn btn-sm-square btn-light text-dark rounded-circle ms-2"
+                        href="https://www.instagram.com/techqubixworks?igsh=aDNzNW80bWhwaXJx"><i
+                            class="fab fa-instagram"></i></a>
+                    <a class="btn btn-sm-square btn-light text-dark rounded-circle ms-2"
+                        href="https://www.linkedin.com/company/techqubix/"><i class="fab fa-linkedin-in"></i></a>
                 </div>
             </div>
         </div>
@@ -23,7 +31,7 @@
 <!-- Topbar End -->
 
 <!-- Navbar Start -->
-<div class="container-fluid bg-white sticky-top">
+<div class="container-fluid bg-light text-white sticky-top">
     <div class="container">
         <nav class="navbar navbar-expand-lg bg-white navbar-light p-lg-0">
             <a href="index.html" class="navbar-brand d-lg-none">
